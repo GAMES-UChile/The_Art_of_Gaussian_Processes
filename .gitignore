@@ -31,3 +31,4 @@
 *.snm
 *.pth
 *.tar.gz
+/__pycache__/*
