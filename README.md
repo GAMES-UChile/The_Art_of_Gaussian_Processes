@@ -1,4 +1,4 @@
-# The_Art_of_Gaussian_Processes
+# The Art of Gaussian Processes
 
 This repository features the material used for the NeurIPS 2021 tutorial *The Art of Gaussian Processes: Classic and Contemporary*, by César L. Mattos and Felipe Tobar
 
